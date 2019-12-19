@@ -1,5 +1,5 @@
 <h1> World Happiness Analysis </h1>
-by Mohammad Mushfequr Rahman and Terry Dharmawan Hosea.
+by Mohammad Mushfequr Rahman and Terry Darmawan Hosea.
 
 
 
